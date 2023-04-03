@@ -67,9 +67,6 @@ Content-Type           application/json
 ## 시간 경과에 따른 사이버대 검색량 추이 시각화
 
 
-
-
-
 - (참고 사이트 : https://wooiljeong.github.io/python/naver_datalab_open_api/ , https://datacomy.com/data_analysis/pandas/merge/)
 - 네이버 데이터랩 오픈 API로 검색어 트랜드 데이터 수집
   * 특정 검색어들의 추이를 Json으로 반환하는 api
